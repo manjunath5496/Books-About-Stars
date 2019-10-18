@@ -24,6 +24,8 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-About-Stars/blob/master/tar(15).pdf" style="text-decoration:none;"> Cosmological Small-scale Structure: The Formation of The First Stars, Galaxies, and Globular Clusters   </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-About-Stars/blob/master/tar(16).pdf" style="text-decoration:none;"> A Statistical and Multi-wavelength Study of Star Formation in Galaxies </a></b></li>
 
-                                   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Books-About-Stars/blob/master/tar(12).pdf" style="text-decoration:none;"> Nuclear Physics: The Core of Matter, the Fuel of Stars   </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Books-About-Stars/blob/master/tar(8).pdf" style="text-decoration:none;"> Stellar Evolution Physics Volume 1: Physical Processes in Stellar Interiors </a></b></li>
+                                  
  
 </ul>
